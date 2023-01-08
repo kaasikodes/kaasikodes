@@ -4,14 +4,16 @@ Hi 👋 My name is Isaac Odeh
 Software Developer with a focus on react
 ----------------------------------------
 
-Result oriented software developer with 3 years of experience designing and building robust and feature-rich web applications. Proficient in web technologies and languages such as Javascript, Typescript, React, Next Js, Jest\*, PHP, MySQL, and Laravel. Proactive Team Player with excellent interpersonal and communication skills, with an appetite to learn new technologies.
+Result oriented software developer with 3 years of experience designing and building robust and feature-rich web applications. Proficient in web technologies and languages such as Javascript, Typescript, React, Next Js, Jest, PHP, MySQL, and Laravel. Proactive Team Player with excellent interpersonal and communication skills, with an appetite to learn new technologies.
 
 *   🌍  I'm based in Jos, Nigeria
-*   🖥️  See my portfolio at [https://61ac3c8fe27107e45f4bee23--elated-haibt-fc335d.netlify.app/](http://61ac3c8fe27107e45f4bee23--elated-haibt-fc335d.netlify.app/)
+*   🖥️  See my portfolio at [https://isaac-odeh-portfolio.netlify.app/](https://isaac-odeh-portfolio.netlify.app/)
 *   ✉️  You can contact me at [odehisaac1998@gmail.com](mailto:odehisaac1998@gmail.com)
 *   🚀  I'm currently working on [School Management Applicaion](http://jazzy-dango-4d997b.netlify.app)
 *   🧠  I'm learning Test Driven Development with Jest, and React Testing Library
-*   🤝  I'm open to collaborating on React Projects### Skills 
+*   🤝  I'm open to collaborating on React Projects
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
