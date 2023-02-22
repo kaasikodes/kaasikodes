@@ -10,7 +10,7 @@ Result oriented software developer with 3 years of experience designing and buil
 *   🖥️  See my portfolio at [https://isaac-odeh-portfolio.netlify.app/](https://isaac-odeh-portfolio.netlify.app/)
 *   ✉️  You can contact me at [odehisaac1998@gmail.com](mailto:odehisaac1998@gmail.com)
 *   🚀  I'm currently working on [School Management App](https://dev.inokpa.com.ng)
-*   🧠  I'm learning Test Driven Development with Jest, and React Testing Library
+*   🧠  I'm learning Test Driven Development and CI/CD.
 *   🤝  I'm open to collaborating on React Projects
 
 ### Skills 
