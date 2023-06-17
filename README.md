@@ -4,9 +4,9 @@ Hi 👋 My name is Isaac Odeh
 Software Developer currently focused on Web3
 ----------------------------------------
 
-Result oriented software developer with 3 years of experience designing and building robust and feature-rich web applications. Proficient in web technologies and languages such as Javascript, Typescript, React, Next Js, Jest, PHP, MySQL, and Laravel. Proactive Team Player with excellent interpersonal and communication skills, with an appetite to learn new technologies.
+Result oriented software developer with years of experience designing and building robust and feature-rich web applications. Proficient in web technologies and languages such as Javascript, Typescript, React, Next Js, Jest, PHP, MySQL, and Laravel. Proactive Team Player with excellent interpersonal and communication skills, with an appetite to learn new technologies.
 
-*   🌍  I'm based in Jos, Nigeria
+*   🌍  I'm based in Abuja, Nigeria
 *   🖥️  See my portfolio at [https://isaac-odeh-portfolio.netlify.app/](https://isaac-odeh-portfolio.netlify.app/)
 *   ✉️  You can contact me at [odehisaac1998@gmail.com](mailto:odehisaac1998@gmail.com)
 *   🚀  I'm currently open to work
