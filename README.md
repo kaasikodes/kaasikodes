@@ -1,7 +1,7 @@
 Hi 👋 My name is Isaac Odeh
 ===========================
 
-Software Developer with a focus on react
+Software Developer currently focused on Web3
 ----------------------------------------
 
 Result oriented software developer with 3 years of experience designing and building robust and feature-rich web applications. Proficient in web technologies and languages such as Javascript, Typescript, React, Next Js, Jest, PHP, MySQL, and Laravel. Proactive Team Player with excellent interpersonal and communication skills, with an appetite to learn new technologies.
