@@ -8,7 +8,6 @@ Result oriented software developer with years of experience designing and buildi
 
 *   🌍  I'm based in Abuja, Nigeria
 *   🖥️  See my portfolio at [https://isaac-odeh-portfolio.netlify.app/](https://isaac-odeh-portfolio.netlify.app/)
-*   ✉️  You can contact me at [odehisaac1998@gmail.com](mailto:odehisaac1998@gmail.com)
 *   🚀  I'm currently open to work
 *   🧠  I'm currently learning Blockchain App Development.
 *   🤝  I'm open to collaborating on Web3 and React Projects
