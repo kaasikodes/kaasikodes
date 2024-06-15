@@ -7,7 +7,7 @@ Software Developer currently focused on Web3
 Result oriented software developer with years of experience designing and building robust and feature-rich web applications. Proficient in web technologies and languages such as Golang, Javascript, Typescript, Solidity, React, Next Js, Jest, PHP, MySQL, and Laravel. Proactive Team Player with excellent interpersonal and communication skills, with an appetite to learn new technologies.
 
 *   🌍  I'm based in Abuja, Nigeria
-*   🖥️  See my portfolio at [https://isaac-odeh-portfolio.netlify.app/](https://isaac-odeh-portfolio.netlify.app/)
+*   🖥️  See my [portfolio]([https://isaac-odeh-portfolio.netlify.app/](https://isaac-odeh-v2.netlify.app/))
 *   🚀  I'm currently open to work
 *   🧠  I'm currently learning Golang.
 *   🤝  I'm open to work
