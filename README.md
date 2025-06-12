@@ -9,7 +9,7 @@ Result oriented software developer with years of experience designing and buildi
 *   🌍  I'm based in Abuja, Nigeria
 *   🖥️  See my [portfolio](https://isaac-odeh-v2.netlify.app/)
 *   🚀  I'm currently open to work
-*   🧠  I'm currently learning Golang.
+*   🧠  I'm currently learning the Management of Infrastructure in Distributed Systems.
 *   🤝  I'm open to work
 
 ### Skills 
