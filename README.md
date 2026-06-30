@@ -1,4 +1,4 @@
-Hi 👋 My name is Isaac Odeh
+Hi 👋 
 ===========================
 
 Software Developer focused on Solutions
