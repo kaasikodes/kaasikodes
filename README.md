@@ -6,7 +6,6 @@ Software Developer focused on Solutions
 
 Result oriented software developer with years of experience designing and building robust and feature-rich web applications. Proficient in web technologies and languages such as Golang, Javascript, Typescript, Solidity, Aws, Docker, K8s, React, Next Js, Jest, PHP, MySQL, and Laravel. Proactive Team Player with excellent interpersonal and communication skills, with an appetite to learn new technologies.
 
-*   🌍  I'm based in Abuja, Nigeria
 *   🖥️  See my [portfolio](https://odehisaac.com/)
 *   🚀  I'm currently open to work
 *   🧠  I'm currently learning the Management of Infrastructure in Distributed Systems.
